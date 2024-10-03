@@ -1,0 +1,5 @@
+# Evitar que se suban archivos sensibles de Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
